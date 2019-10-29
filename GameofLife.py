@@ -108,5 +108,5 @@ def gameoflife_2_gif(sidelength, iterations):
 # In[6]:
 
 
-gameoflife_2_gif(300,5000)
+gameoflife_2_gif(110,1000)
 
